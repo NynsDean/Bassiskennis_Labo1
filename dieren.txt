@@ -2,3 +2,4 @@ aap
 tijger
 leeuw
 hond
+rat
